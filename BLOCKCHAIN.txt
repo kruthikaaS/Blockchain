@@ -1,0 +1,115 @@
+BLOCK CHAINS Basics:
+----------------------
+What is Blockchain?
+
+   - it is a digital ledger mechanism to authorise, validate and store transactions on a computer network.
+   - it is a technology that introduced the notion of trasactional trust through computer code.
+   - It was developed to correct the double spend problem while creating bitcoin.
+
+Double spend (making unlimited copies of a digital item which can make cryptocurrency non viable as money)
+
+PROBLEMS SOLVED BY BLOCKCHAIN TECHNOLOGY:
+
+Traditional databases have the folllowing 2 problems:
+
+1) Reliability on central database --> Most conventional database have a central authority(owner of the database)
+                                who can control what data can be stored, edited or deleted from a database. 
+                                If a hacker gets hand of this peron's user id and passowrd, he can potentially 
+                                harm the data in the database leading to single point of failure.
+ 
+
+
+2) central authority holds all the power --> since central authority holds all the power, we will need a dedicated 
+                                             personnel with special skills. we will also require complex approval 
+                                             workflows which has lots of human checks and balances. Due to this the
+                                             systems can sometimes be prone to errors and there is certainly a delay
+                                             in the process. This is also costly and are prone to hacking.
+
+So BLOCKCHAN technolgy helps to solve these 2 problems by distributing the authority over decisions across partcipants
+resulting in elemination of the risk and challenges of a central authority.
+
+
+
+TYPES OF BLOCKCHAINS:
+
+  1) Permissionless and public blockchain==> these are opensource blockchain where anyone can join without need 
+                                             for approval process.
+
+  2) Permissioned and private Blockchain ==> Require approval for participation and access levels and roles are controlled.
+                                             mostly used within and between private enterprised that store sensitive
+                                             informations.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+DAO (DECENTRALIZED AUTONOMOUS ORGANIZATION) :
+
+Basically an organization where there are no hierarchy of people 
+like managers, subordinates n all... everyone is equal and has the right to voice out their opinion, submit ideas
+for innovation etc.
+
+Many DAOs exist in financial sectors. Example:Bitcoin network
+
+All financial transaction and rules are recorded in blockchain system which eliminates the need for any financial
+Intermediaries.(financial intermediaries ==> institution or person who act as middle man to facilitate any
+financial transaction)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+ETHEREUM:
+
+- Apart from developing its own set of cryptos(ETHER), this company offers blockchain as a developmental paltform.
+- It offers a full fledged decentralized programmable environment.
+-
+ 
+
+SMART CONTRACT:
+
+- its a term used to describe a code that runs on a blockchain. 
+- They are a series of function that exexute when certain conditions are met.
+- unlike the traditinoal contracts, the execution does not rely on the discretions(to decide what needs to be done
+  in creatin situations)of humans.
+- these smart contracts run predictably and accurately.
+
+ex: Automatic confirmation of payments for goods once delivered and updation of stock inventory in a supply chain 
+    business
+
+USES OF SMART CONTRACT IN BUYING AND SELLING OF DIGITAL ASSETS:
+
+-Block chain technology manages the authenticty and ownership of digital goods like art and photos using NFT.
+ 
+- NON FUNGIBLE TOKENS (NFT)===>are a type of crypto tokens that store details such as owner and description 
+of the digital asset on a block chain. when the owner of the NFT decides to sell his digital asset, this NFT will
+be trabnsfered to a buyer using smart contract. the tras]nsaction will certify the new owner, transfer any money dues
+and conclude the sale without any loose ends.
+
+
+
+DeFi(DECENTRALIZED FINANCE):
+
+- new financial service resulted as an outcome of using PROGRAMMABLE BLOCKCHAINS AND SMART CONTRACT 
+- requires only an internet connection as contrast to the conventional financial system (Traditional Banks)
+  which have a lot of requirements and are not readily available to everyone.
+- They are global and are open 24/7.
+- there is no central authority to block use, deny services or require pre qualified individuals.
+- Transations are fast and error free
+
+BENIFITS OF BLOCKCHAIN TECHNOLOGY:
+----------------------------------
+
+- Provenance
+- Immutability
+- Security
+- Compliance
+- Smart contracts.
+
+VENDORS PROVIDING PRIVATE BLOCKCHAINS: Hyperledger fabric and IBM Blockchain
+
+BaaS (BLOCKCHAIN AS A SERVICE):
+-------------------------------
+- Microsoft and Kaleido are offering BaaS 
+- BaaS uses cloud based architecture to develop blockchain solutions quickly.
+- it also keeps maintenance low and provide easier access to the state of art blockchain functions.
+
+
