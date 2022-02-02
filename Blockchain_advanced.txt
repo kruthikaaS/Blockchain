@@ -1,0 +1,106 @@
+Block chian is a special type of distributed database:
+
+ 1) instead of resding on a single serever in a datacentre, this database
+    is availble in the local machine of all users who use this database.
+
+ 2) In order to create a new entry in this database, all partcipanting computers must 
+    agree to the change or in other words a consensus must be reached
+
+====================================================================================================================
+CRYPTOGRAPHY:
+- means secret writing.
+- way to send messages between 2 people which ensures no one else other than those 2 people can read the message.
+
+Mechanism of Cryptography: 
+---------------------------
+Sender writes a message ===> messsage gets encrypted to be shared over a network to the reciever ====> this encrypted
+message is decrypted on the receiver's machine and the original message is seen by the receiver.
+
+-Block chain database uses PUBLIC KEY INFRASTRUCTURE (PKI) - a type of crytography mechanism.
+
+PKI
+---
+- involves the use of public and private keys
+- public key is visible to all the nodes in the database network. ex: the address of your locked physical mailbox
+- private key is visible only to the owner and it remains a secret. ex: the key to open your physical mailbox
+- private key is stored in a place called walet in our smartphone or computers.
+
+MECHANSIM INVOLVED IN PKI:
+---------------------------
+STEP 1: -Generate a private key (usually a combination of alphabets from a-f with some numbers)
+        -Generation of private keys automatically creates a public key. However the vice versa is never possible.
+
+STEP 2 : Share your private key to the person who wants to send you some secrets.
+
+STEP 3: The person who receives the public key will lock his/her message using the public key we sent and send you
+        the message.  
+
+STEP 4: You will open the message uisng your secret private key.
+
+HOW DOES PKI ENABLE PROOF OF AUTHENTICITY?
+------------------------------------------
+- By using a digital signature.
+- digital signatures use private and public keys to function.
+- messages to be sent are signed with our public key
+- the receiver has our public key and once he gets our message, the public key will verify and 
+  authenticate the signature created by our private key.
+
+This way the proof of authenticity of the sender is acheived.
+  
+
+===================================================================================================================
+NONCE:
+ - its a number that is used just once.
+ - it is used for a specific purpose and never used again.
+ - one such use is in digital transmission to reduce duplicate transactions. In real life data that is entered into 
+   a database can have same identifiers. Adding a nonce to the identifier makes the data additionaly unique thus preventing
+   accidental duplication.
+
+HASH FUNCTION:
+ - it is a mathematical funation that takes in data of any size and returns a hash(fixed size data).
+ - the size of a hash is always same be it a single line of data or a paragraph of data.
+ - This process of conveting a text or string to a signature of hash is called hashing.
+ - hashing is unideirectional.
+ - storing hashes in DB reduces the size of DBs
+ - hash has a combination of 64 aplhabets and numbers thus making it an almost unique identifier for a digital product.
+ - block chain uses a hashing algorith called SHA-256 (Secure Hash Algorithm)
+
+MINING:
+WHO ARE MINERS IN A BLOCKCHAIN?
+----------------------------------
+They are participants in a blockchain network who contribute processing powers to the network to solve mathematical
+problems in exchnage for rewards.
+
+ - basically using the nonce and Hashing function to create a complex math problem for a computer to solve. 
+ - the computer which solves the assigned mathematical problem will get a reward.
+
+Ex: let us take the string "hello world". Now when we send in this string to the SHA-256 hashing mechanism, we want
+    the resulting hash to start with a specific set of numbers say "0000". So we will introduce a NONCE number while
+    creating the hash. when this Nonce number is added we will get a different hash output for the same string. A 
+    miner or a mining computer will keep on generating adding different NONCE numbers to hashing process till the 
+    hash begining with "0000" is obtained. The computer which solves this 1st gets a reward. in order to do this the
+    particiating computer needs to spend some of its processing power.
+
+- This method of mining and creating a winning hash provides another important feature of 
+  BlockChain technology =========> PROOF OF WORK.
+
+===================================================================================================================
+
+DISTRIBUTED LEDGER TECHNOLOGY (DLT):
+
+In a blockchain technology, data is stored as blocks and does not reside on a single central authority but a copy of
+the database exists in all the participating computers. Thus the database gets the name distributed ledger system.
+
+When a new user joins the network, a copy of the database is 1st downloaded to his computer.As any transaction takes
+place, it is recorded in the database of all partcipating computers.
+
+Unlike traditional databse, in a blockchain database for any transaction to be processed and insterted into the 
+blockchain ledger, a concensus must be obtained from all the partrcipating computers. 
+
+In addition to this feature, the miners in a block chain technology must create a new hash of a specific combination
+called "Proof of work" in oreder to append a new block to the database thus uplholding blockchain DBs integrity.
+
+finally Blockchain distributed ledger is IMMUTABLE meaning it is practiaclly not possible to delete or modify a 
+block which has been added. If a mistake is made, its permanent.
+
+
