@@ -1,0 +1,58 @@
+UNDERSTANDING BITCOIN FUNCTIONS:
+--------------------------------
+
+- major use of blockchain happens in bitcoins, a type of cryptocurrency.
+- Anyone using bitcoin can have one of the 2 roles or even both in some cases.
+
+1) Bitcoin user:
+
+ 	- uses his local money or fiat money to purchase bitcoins for bitcoin transactions.
+	- Bitcoins can be purchased using services like Kraken and COinbase in exhnage for fiat currencies.
+	- value of bitcoin is determined by the market price at the time of purchase.
+	- the exchange rate is how much btcs will we get for a dollar.
+	- after buying btc we can either store it in our wallet on our PC or smartphone or register with a vendor.
+	-
+
+
+2) Bitcoin Miner:
+        - their role is to give "PROOF OF WORK" which will enable a new block to be added to blockchian.
+        - they are rewarded with new bitcoins for the "PROOF OF WORK" they do.
+        - A miner can either exchange their coins for a fiat currency or use btc for further transactions
+        - mining is a expensive process which requires lots of computing processors. hence not all can beocome miners.
+
+
+MECHANISM OF BITCOIN FUNCTION:
+-------------------------------
+- sender and recipient must be a part of the bitcoin blockchian.
+- ecah receiver has a unqiue address which is the hash of the public key of the receiver.
+- the sender must specify the address of the recipient while initaiting the transaction.
+
+ex: ALice wants to send 10 btc to bob using her bitcoin wallet. she initiates the trasnaction by specifyimng bob's 
+adress as the destination and along with it pays a negligble processing fee. this transcation is distributed to all
+the computers in the blockchain network and is queued up to be processed which can take upto 10 mins.
+
+AT the end of 10 mins 2 blocks gets added to the blockchain ledger, one saying alice has 10 btc less and 2nd saying
+bob has 10 btc more. But the additions of these 2 block only happend when 2 conditions are met.
+
+
+
+Condition 1: a consesnus must be obtained from all the computers in the btc blockchain that th transation is 
+               legit
+  
+
+Condition 2: Miner in the netwrok successfully resolves a specific hash output based on a specific input. the 
+               specific hash output is what we call "PROOF OF WORK". Since this process takes upto 10 mins to 
+               be completed, no block in the meantime will be accepted as authentic and added to blockchain till 
+               a winning hash emerges.This also helps to prevent people from making the same transaction twice or
+               more time during the processing window.
+
+===================================================================================================================
+
+FEATURE OF BLOCKS IN A BLOCKCHAIN:
+-----------------------------------
+
+- all the blocks are interlinked.
+- ANy new block added to the block chian is dependent on the previous one 
+- the address of the new block is the hash of the previous block.
+- so any tampering to the blocks will result in change of the hash of the tampered block there by making the 
+  subsequent block screen fowl and invalid.

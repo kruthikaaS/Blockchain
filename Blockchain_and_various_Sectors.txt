@@ -1,0 +1,29 @@
+USES OF BLOCK CHAIN IN VARIOUS SECTORS:
+---------------------------------------
+
+FINANCIAL SECTORS:
+-------------------
+blockchain technology can 
+
+-Top benifit of this technlogy is "EFFICIENCY"
+-create new financial products, servies, job categories and skills
+-can reduce fraud and risk
+-offer high quality consumer experience.
+-create low barrier entry to allow people from developing countries to participate in financial markets both as 
+ consumers and producers.
+-can amplify and extend the benifits of seamless e-payment and recipt system which are already enabling e-commerce
+ in underdeveloped rural parts of the world like WeChat in China, Zoto in Nigeria and YellowPepper in Latin America.
+-helps to reduce intermediateries.
+-establish a trustless connections between entities
+-Secure and immutable record of all transactions. 
+
+SOME EXAMPLES OF REAL LIFE COMPANIES USING BLOCKCHIAN TECHNOLOGY:
+------------------------------------------------------------------
+1) FACTOM ==> Austin based mortgage industry uses a product called Factom Harmony to ensure mortgage clients and 
+              companies have complied with regualations, document are preserved securely and easily availabe at the
+              time of audit.
+
+2) Bank of China==> uses block chain technology for property valuation system for home loans.
+
+3) NASDAQ LINQ ===> enables an issuer to digitally reprsent a record of ownership, reduce settlemet time and eliminates
+                    the need for paper stock certifcates.

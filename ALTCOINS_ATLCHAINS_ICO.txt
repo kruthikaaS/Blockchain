@@ -1,0 +1,38 @@
+ALTCOINS:
+
+- Cryptocurrencies that have forked from bitcoin code.
+ex: Ethereum, Ripple, Lightcoin, Blackcoin, dash, gradcoin, peercoin and zcash.
+
+ALTCHAINS:
+
+- This is the name given to the blockchains that support altcoins.
+
+
+FEATURES OF ALTCHAINS:
+---------------------
+
+- perfect for experimentation which support testing and learning.
+- tuned for particular uses. Ex: liquid, a sidechain to the btc blockchain that facilitate rapid transfers of btc
+  amongst a small group of people.
+- Exercise greater control over btc transactions.ex: require proof that the wallet is owned by a verified institution
+  before allowing transactions.
+-provide privacy that goes beyond those of inherent blockcahins. ex: trasactions can be hidden from public to prevent
+ the leakage of trade secrets.
+
+WHY CREATE ALTCOINS AND ALTCHAINS?
+ 
+1) altcoin can have different monetary policies
+2) different proof of work or consesnus mechanism
+3) can have specific features or focus areas
+4) Used for Initial coin offering (ICO) 
+
+
+===================================================================================================================
+INITIAL COIN OFFERING (ICO):
+
+-its a fundraising mechanism in which startup companies can sell their underlying cryotocurrencies in exchange for
+ bitcoins.
+- similar to IPO (Inital public offerings) made by companies to encourage people to buy company shares.
+- Restricions in place on who can buy ICO coz of 2 risks involved in this. 
+     a) since the startup takes money from a global audience of investors, the money raised can be very large.
+     b) also they are raising mone pre product which is a huge risk.
