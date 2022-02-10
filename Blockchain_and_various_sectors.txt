@@ -1,0 +1,110 @@
+USES OF BLOCK CHAIN IN VARIOUS SECTORS:
+---------------------------------------
+
+FINANCIAL SECTORS:
+-------------------
+blockchain technology can 
+
+-Top benifit of this technlogy is "EFFICIENCY"
+-create new financial products, servies, job categories and skills
+-can reduce fraud and risk
+-offer high quality consumer experience.
+-create low barrier entry to allow people from developing countries to participate in financial markets both as 
+ consumers and producers.
+-can amplify and extend the benifits of seamless e-payment and recipt system which are already enabling e-commerce
+ in underdeveloped rural parts of the world like WeChat in China, Zoto in Nigeria and YellowPepper in Latin America.
+-helps to reduce intermediateries.
+-establish a trustless connections between entities
+-Secure and immutable record of all transactions. 
+
+SOME EXAMPLES OF REAL LIFE COMPANIES USING BLOCKCHIAN TECHNOLOGY:
+------------------------------------------------------------------
+1) FACTOM ==> Austin based mortgage industry uses a product called Factom Harmony to ensure mortgage clients and 
+              companies have complied with regualations, document are preserved securely and easily availabe at the
+              time of audit.
+
+2) Bank of China==> uses block chain technology for property valuation system for home loans.
+
+3) NASDAQ LINQ ===> enables an issuer to digitally reprsent a record of ownership, reduce settlemet time and eliminates
+                    the need for paper stock certifcates.
+===================================================================================================================
+
+
+
+
+ENERGY SECTOR:
+--------------
+- THere are a wide range of participants in any energy interactions like the generator, distributor, traders, regulators
+and end users (factories and homes). 
+- this is an extensive ecosystem that is based on trust and has a lot of intermediataties.
+- Some possible uses of Blockchain in traditional energy sector: 
+
+1) Verification of renewable electricity and emission allowance
+2) A register that records and regulates the owwnership and state of assests such as smart meters, networks, generation facilities.
+3) Sharing smart meter data with a wide range of consumers without compromising privacy or security and also offer opportunity to generate income from sharing.
+
+
+Blockchains for energy billing for EVs (Electronic vehicles)
+----------------------------------------------------------------
+- blockchain technology can provide an efficinet billing mechanism.
+- Slock.it solutions enables secure, efficient blkchian transactions between devices without the need for intermediateries.
+- SHARE&CHARGE ==> a startup that allows anyone owining an EV charger to become a provider using blockchain technlogy.
+
+
+
+BLOCKCHAIN FOR ALTERNATIVE ENEREGIES:
+------------------------------------
+- traditional model for energy provison from generaor to consumer using distributors can go in for a toss when communities of people or industries start
+  creating their own power using renewable resources like solar energy etc.
+
+- Lets assume a situation where 2 communities exist in a place and due to microclimates one side is mostly sunny and other side is mostly cloudy.Now the sunny
+  side produces more than needed energy and this extra energy could be sold to the cloudy side. Blockchain technology can help facilaite this process by using
+  smart contacts that manages energy trades. overtime homeowners would accumulate cryptocurrenecies which they can use to exchange for dollars or buy some d
+  digital products.
+
+Companies like GRID SINGULARITY, POWER LEDGER, ELECTRON in UK are examples of blockchain based platforms for energy trade.
+
+SOLARCOINS:
+-----------
+- cryoptos which can be earned by homeowners who are generating solar electricity.
+- these are tradable crytops currently available in market.
+- this was develeoped to incentivize solar power usage.
+- Authentiacting the generation of power results in the collection of solarcoins.
+
+
+==============================================================================================================================================================
+
+IDENTITY MANAGEMENT AND BLOCKCHAINS:
+------------------------------------
+- Fool proof methods of prooving ones idenitity has been an elusive goal despite the many new methods for authenticating ones identity like
+  a) Passports and Identity cards issued by governmnets.
+  b) Banking systems requiring new users to regster their PPI(Presonal information)
+  c) Debit and credit cards having microchips embedded in them.
+Hence use of Blockchains could offer an immutable digital record of the perosn to help manage this situation.
+
+EX 1: uPORT
+-------------
+City of ZUG, Switzerland has become the first one city in the world that offers its citizen a digital passport to be used for a varierty of applications
+in the city. Instead of using the traditional approcah of looking up PPI against a cnetral lib of data, the identities are stored in a blockchain.they use
+an app called uPort which is developed on Ethereum blockchain. this app has 4 features:
+
+   i) mobile application ==> a mobile key identity
+   ii)opensource developer identities ==> to enable integration of uPort app with other DAPPS or traditional didgit service providers.
+   iii)Smart contract ==> codes that run on blockchain  which includes features like access control, account recovery and storage of contacts.
+   iv) Developer Tools ===> technical and educational resourses for easily integrating uPort platform to other apps.
+
+Ex 2: CIVIC
+------------
+- app that uses decentralized architecture along with blockchain technology and biometrics on mobile device to prove identity.
+- user downloads the app on smartphone and scans the required document lets say a drivers liscenece for the bussiness.
+- the data from the drivers liscence is hashed and an immutable entrty is made in the blockchain.
+- the personal information from the card is automatically deleted from CIVIC's serever and users smartphone.
+
+Ex 3: BLOCK AUTH ===> enable usesrs to own and use their own idenitity registers.
+ex 4: BITNATION ==> blockchain based solution for identities that include passport and marriage certificate.\
+Ex 5: IDENTIFI ===> global address book of trusted and secure entities.
+
+
+
+  
+                                                                         
