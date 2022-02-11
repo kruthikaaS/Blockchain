@@ -40,10 +40,10 @@ TYPES OF BLOCKCHAINS:
                                              informations.
 
 
---------------------------------------------------------------------------------------------------------------------
-
-DAO (DECENTRALIZED AUTONOMOUS ORGANIZATION) :
-
+==============================================================================================================================================================================
+COMMON TERMINOLOGIES:
+-----------------------
+1) DAO (DECENTRALIZED AUTONOMOUS ORGANIZATION) :
 Basically an organization where there are no hierarchy of people 
 like managers, subordinates n all... everyone is equal and has the right to voice out their opinion, submit ideas
 for innovation etc.
@@ -53,19 +53,8 @@ Many DAOs exist in financial sectors. Example:Bitcoin network
 All financial transaction and rules are recorded in blockchain system which eliminates the need for any financial
 Intermediaries.(financial intermediaries ==> institution or person who act as middle man to facilitate any
 financial transaction)
-
-
--------------------------------------------------------------------------------------------------------------------
-
-ETHEREUM:
-
-- Apart from developing its own set of cryptos(ETHER), this company offers blockchain as a developmental paltform.
-- It offers a full fledged decentralized programmable environment.
--
  
-
-SMART CONTRACT:
-
+2) SMART CONTRACT:
 - its a term used to describe a code that runs on a blockchain. 
 - They are a series of function that exexute when certain conditions are met.
 - unlike the traditinoal contracts, the execution does not rely on the discretions(to decide what needs to be done
@@ -75,15 +64,11 @@ SMART CONTRACT:
 ex: Automatic confirmation of payments for goods once delivered and updation of stock inventory in a supply chain 
     business
 
-USES OF SMART CONTRACT IN BUYING AND SELLING OF DIGITAL ASSETS:
 
--Block chain technology manages the authenticty and ownership of digital goods like art and photos using NFT.
- 
-- NON FUNGIBLE TOKENS (NFT)===>are a type of crypto tokens that store details such as owner and description 
-of the digital asset on a block chain. when the owner of the NFT decides to sell his digital asset, this NFT will
-be trabnsfered to a buyer using smart contract. the tras]nsaction will certify the new owner, transfer any money dues
-and conclude the sale without any loose ends.
-
+3) NON FUNGIBLE TOKENS (NFT):
+- are a type of crypto tokens that store details such as owner and description of the digital asset on a block chain.
+- when the owner of the NFT decides to sell his digital asset, this NFT will be trabnsfered to a buyer using smart contract. 
+- the transaction will certify the new owner, transfer any money dues and conclude the sale without any loose ends.
 
 
 DeFi(DECENTRALIZED FINANCE):
@@ -93,7 +78,9 @@ DeFi(DECENTRALIZED FINANCE):
   which have a lot of requirements and are not readily available to everyone.
 - They are global and are open 24/7.
 - there is no central authority to block use, deny services or require pre qualified individuals.
-- Transations are fast and error free
+- Transations are fast and error free.
+==============================================================================================================================================================================
+
 
 BENIFITS OF BLOCKCHAIN TECHNOLOGY:
 ----------------------------------
@@ -104,12 +91,8 @@ BENIFITS OF BLOCKCHAIN TECHNOLOGY:
 - Compliance
 - Smart contracts.
 
-VENDORS PROVIDING PRIVATE BLOCKCHAINS: Hyperledger fabric and IBM Blockchain
 
-BaaS (BLOCKCHAIN AS A SERVICE):
--------------------------------
-- Microsoft and Kaleido are offering BaaS 
-- BaaS uses cloud based architecture to develop blockchain solutions quickly.
-- it also keeps maintenance low and provide easier access to the state of art blockchain functions.
+RISKS OF BLOCKCHAIN TECHNOLOGY
+---------------------------------
 
-
+-
