@@ -95,4 +95,17 @@ BENIFITS OF BLOCKCHAIN TECHNOLOGY:
 RISKS OF BLOCKCHAIN TECHNOLOGY
 ---------------------------------
 
--
+- Disrupted business model in financial services industries due to lack of need of intermediateries therby leading to loss of job for many and recuced revenue.
+- Wider range of people not exploring the blockchain technology and thereby lsing first mover advantage.
+- people disengaging becuase blockchain is difficult to understand and implement.
+- bitcoin Hacking:
+        way 1: The hacker somehow gains access to our private keys which we have stored either in our wallet, or written on paper or on cloud. 
+               always ensure private key is well protected
+        Way 2: Hackers exploiting bitcoin miners. As we know solving a hash requires a lot of computing power and miners have these powers.
+               some hackers have sucessfully commandeered the miner's computing power to ensure that they get the newly minted bitcoin of the hash solved by miner.
+               sometimes hackers can also deploy a malware to use the processing power of miners computers.
+ - Criminals can use DDOS (Distributed denial of service attack) to make several bitcoin exchanges unresponsive thereby altering the dynamics in which trading takes place.
+   if done right DDOS attack can be used to gain profit from the change in currency value.
+  - with so many particpants in the bitcoin and altcoin systems, it is becoming difficut to recognize legitemate services vs scams.\
+   
+- 
